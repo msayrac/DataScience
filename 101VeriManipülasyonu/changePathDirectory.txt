@@ -1,0 +1,11 @@
+cd ile ilgili klasorun icinde git
+cd desktop
+etc
+daha sonra ilgili klasorde 
+jupyter lab --notebook-dir=C:
+
+hangi klasordeyse C ya da D diyeceksin
+
+
+https://www.youtube.com/watch?v=uXgWMcgKKoA
+
